@@ -5,5 +5,5 @@
 
 # Dividir y conquistar: 
 # insertar número 
-    #realizar combinaciones de dígitos que se igualen  a múltiplos de 5
-        #dar a conocer la combinación de dígitos 
+# realizar combinaciones de dígitos que se igualen  a múltiplos de 5
+# dar a conocer la combinación de dígitos
